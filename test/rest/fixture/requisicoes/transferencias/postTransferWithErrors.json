@@ -2,8 +2,8 @@
     {
         "nomeDoTeste": "Saldo insuficiente",
         "postTransfer": {
-            "from": "julio",
-            "to": "priscila",
+            "from": "Andreia",
+            "to": "Arthur",
             "value": 10000.01
         },
         "statusCode": 400,
@@ -12,8 +12,8 @@
     {
         "nomeDoTeste": "Remetente não encontrado",
         "postTransfer": {
-            "from": "isa",
-            "to": "priscila",
+            "from": "Ivonei",
+            "to": "Andreia",
             "value": 15
         },
         "statusCode": 400,
@@ -22,8 +22,8 @@
     {
         "nomeDoTeste": "Destinatário não encontrado",
         "postTransfer": {
-            "from": "julio",
-            "to": "isa",
+            "from": "Andreia",
+            "to": "Ivonei",
             "value": 15
         },
         "statusCode": 400,
